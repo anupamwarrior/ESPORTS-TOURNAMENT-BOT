@@ -1,0 +1,3 @@
+TOKEN = "YOUR_BOT_TOKEN"
+ADMIN_ROLE = "Admin"
+PLAYER_ROLE = "Player"
